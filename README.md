@@ -1,16 +1,17 @@
-### Hi there 👋
+## 👋 Hi, I'm Calvin!
+<p>I'm a UXUI designer and developer.</p>
+<p>I also conduct workshops on design and coding.</p>
 
-<!--
-**calvintan/calvintan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Currently available for freelance/contract remote work.
 
-Here are some ideas to get you started:
+> Building websites is like marrying two of my favorite things: being a geek and being an artist
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What next?
+:man_technologist: [View my portfolio](http://www.calvin-tan.com)
+<br>
+:writing_hand: I write about coding here (_coming soon_)
+<br>
+:envelope: [Get in touch via e-mail](mailto:hello@calvin-tan.com)
+
+[![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/calvintbs/)](https://www.linkedin.com/in/calvintbs/)
+
