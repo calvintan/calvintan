@@ -1,7 +1,7 @@
 ## 👋 Hi, I'm Calvin!
 <p>I'm a UXUI designer and developer. I also conduct workshops on design and coding.</p>
 
-Currently available for freelance/contract remote work.
+Currently available for freelance/contract remote work, let's [get in touch!](mailto:hello@calvin-tan.com).
 
 > Building websites is like marrying two of my favorite things: being a geek and being an artist
 
