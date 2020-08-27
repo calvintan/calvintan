@@ -1,4 +1,4 @@
-![sketch of myself](avatar.jpg)
+![a sketch of myself](https://github.com/calvintan/calvintan/blob/master/avatar.jpg)
 
 Hi! I'm Calvin – UXUI designer and web developer. I also teach workshops on design and coding.
 
