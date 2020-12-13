@@ -11,4 +11,4 @@ Currently available for freelance work, let's [get in touch!](mailto:hello@calvi
 - :writing_hand: [I write about coding here](http://uxcal.medium.com/)
 - :envelope: [Get in touch via e-mail](mailto:hello@calvin-tan.com)
 
-[![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/calvintbs/)](https://www.linkedin.com/in/calvintbs/)
+[![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/uxcal/)](https://www.linkedin.com/in/uxcal/)
